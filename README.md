@@ -1,2 +1,2 @@
-# cigem
-Center for integrated geospatial and environmental monitoring
+# IGREM
+Institute for Geospatial Research and Environmental Monitoring
